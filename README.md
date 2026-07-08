@@ -2,7 +2,7 @@
 
 **Data Science Master's student in Adelaide** · Machine learning & retail analytics · Co-inventor on a published Indian patent for a real-time Edge AI wearable
 
-I like problems where the model has to survive the real world — noisy sensors, messy retail data, non-technical stakeholders. Currently working at Woolworths while finishing my Master of Data Science (Dec 2026), which means I spend my mornings inside retail operations and my evenings modelling them.
+I like problems where the model has to survive the real world: noisy sensors, messy retail data, non-technical stakeholders. Currently working at Woolworths while finishing my Master of Data Science (Dec 2026), which means I spend my mornings inside retail operations and my evenings modelling them.
 
 ##  Featured work
 
