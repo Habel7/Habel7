@@ -14,7 +14,7 @@ I like problems where the model has to survive the real world: noisy sensors, me
 
 ##  Currently building
 
-- Retail demand forecasting on the M5 (Walmart) dataset — framed through what forecast error actually costs on the shop floor
+- Retail demand forecasting on the M5 (Walmart) dataset - framed through what forecast error actually costs on the shop floor
 - Learning React + FastAPI to ship models as live apps, not just notebooks
 
 ##  Stack
